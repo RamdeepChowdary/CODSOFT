@@ -1,2 +1,2 @@
 # calculator
-calculator using CSS, HTML, JAVA SCRIPT and also implementing with interactive interface with buttons for addition, subtraction, multiplication, and division operations. the calculator should have a display to show the user input and result.
+calculator using CSS,HTML,JAVA SCRIPT and also implementing with interactive interface with buttons for addition,subtraction,multiplication,and division operations. the calculator should have a display to show the user input and result. Use event listeners,if-else statements,operatiors,and loops to handle user input and perform calculations.This project requires some skills but can be done with basic knowladge of these technologies..
